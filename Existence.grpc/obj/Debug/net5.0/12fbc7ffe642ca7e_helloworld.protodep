@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/Helloworld.cs \
+obj\Debug\net5.0\Protos/HelloworldGrpc.cs: Protos/helloworld.proto

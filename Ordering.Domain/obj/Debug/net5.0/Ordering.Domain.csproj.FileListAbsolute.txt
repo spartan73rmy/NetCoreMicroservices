@@ -1,0 +1,12 @@
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.deps.json
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\bin\Debug\net5.0\ref\Ordering.Domain.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfo.cs
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.AssemblyReference.cache

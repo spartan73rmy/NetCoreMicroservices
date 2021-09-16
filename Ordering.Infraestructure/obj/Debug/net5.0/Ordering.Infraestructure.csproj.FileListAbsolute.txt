@@ -1,0 +1,17 @@
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\Ordering.Infraestructure.deps.json
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\Ordering.Infraestructure.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\ref\Ordering.Infraestructure.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\Ordering.Infraestructure.pdb
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\Ordering.Application.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\Ordering.Domain.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\Ordering.Application.pdb
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.AssemblyInfo.cs
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.csproj.CopyComplete
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\ref\Ordering.Infraestructure.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\Ordering.Infraestructure\obj\Debug\net5.0\Ordering.Infraestructure.pdb

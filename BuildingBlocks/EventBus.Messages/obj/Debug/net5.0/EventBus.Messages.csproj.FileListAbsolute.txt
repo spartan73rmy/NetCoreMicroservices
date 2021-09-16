@@ -1,0 +1,12 @@
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.deps.json
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\ref\EventBus.Messages.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.pdb
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfoInputs.cache
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfo.cs
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb
+C:\Users\spart\Desktop\CursoMicroservicios\Shop.Microservicios\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.AssemblyReference.cache

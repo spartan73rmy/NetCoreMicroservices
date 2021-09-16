@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gISRSeSa+ruOzW4lEcRxqloA/7xHMYoq6ynr4vOewXkAkK4jvUodqK2LdyqQYX+oNP4GVEF0QnETbFTcaEUEgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spart\\Desktop\\CursoMicroservicios\\Shop.Microservicios\\Catalog.api\\Catalog.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spart\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

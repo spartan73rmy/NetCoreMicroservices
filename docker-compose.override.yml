@@ -1,0 +1,75 @@
+version: '3.4'
+
+services:
+  catalogdb:
+   container_name: catalogdb
+   ports:
+   - "27017:27017"
+   volumes:
+   - mongo_data:/data/db
+
+  basketdb:
+   container_name: basketdb
+   ports:
+    - "6379:6379"     
+   
+  catalogs.api:
+    container_name: catalogs.api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "DatabaseSettings:ConnectionString=mongodb://catalogdb:27017"
+    ports:
+      - "8000:80"
+    depends_on:
+      - catalogdb
+
+  orderdb:
+    container_name: orderdb
+    environment:
+        SA_PASSWORD: "Passw0rd23"
+        ACCEPT_EULA: "Y"
+    restart: always
+    ports:
+    - "1433:1433"
+
+  basketapi:
+    container_name: basket.api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "CacheSettings:ConectionString=basketdb:6379"
+      - "EventBusSettings:HostAddress=amqp://guest:guest@rabbitmq:5672"
+    ports:
+      - "8001:80"
+    depends_on:
+      - basketdb
+
+  ordering.api:
+    container_name: ordering.api
+    environment:
+      - "EventBusSettings:HostAddress=amqp://guest:guest@localhost:5672"
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "ConnectionStrings:OrderingConnectionString=Server=orderdb;Database=OrderDb;User Id=sa;Password=Passw0rd23"
+    ports:
+      - "8002:80"
+    depends_on:
+    - orderdb
+    - rabbitmq
+    - basket.api
+
+  api.gateway:
+    container_name: api.gateway
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8005:80"
+    depends_on:
+        - catalogs.api
+        - ordering.api
+        - basket.api
+
+  rabbitmq:
+   container_name: rabbitmq
+   ports:
+    - "5672:5672"
+    - "15672:15672"
+

@@ -1,0 +1,44 @@
+version: '3.4'
+
+services:
+  catalogdb:
+    image: mongo
+  basketdb:
+    image: redis:alpine
+  orderdb:
+    image: mcr.microsoft.com/mssql/server
+
+  catalogs.api:
+    image: ${DOCKER_REGISTRY-}catalogsapi
+    build:
+      context: .
+      dockerfile: Catalogs.api/Dockerfile 
+
+  basketapi:
+    image: ${DOCKER_REGISTRY-}basketapi
+    build:
+      context: .
+      dockerfile: BasketApi/Dockerfile
+
+  ordering.api:
+    image: ${DOCKER_REGISTRY-}orderingapi
+    build:
+      context: .
+      dockerfile: Ordering.api/Dockerfile
+
+  api.gateway:
+    image: ${DOCKER_REGISTRY-}apigateway
+    build:
+      context: .
+      dockerfile: Api.gateway/Dockerfile
+  
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+
+volumes:
+  mongo_data:
+
+networks:
+  dockernet:
+    external: true
+
